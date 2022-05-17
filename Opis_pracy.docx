@@ -6,6 +6,8 @@ Panel użytkownika
     - Domy wystawione przezemnie
     - Formularz do wystawiania domów
 
+Live Chat jako dodatkowa funkcjonalność.
+
 Użytkownik niezalogowany bedzie mieć podgląd do wszystkich dostępnych domów. Będzie mieć możliwośc podglądu informacji o domach jednak bedzie mieć ograniczoną funkcjionalność.
 
 Użytkownik zalogowany będzie mieć dodatkowe funcjonalności. Bedzie mógł dodawać domy do ulubionych z wszystkich dostępnych. Bedzie mieć możliwość wystawiania nowych domów edytowania zwoich wystawionych domów. Edycja swojego profilu. Bedzie mieć podgląd listy domów które dodał do do ulubionych.
@@ -13,6 +15,8 @@ Użytkownik zalogowany będzie mieć dodatkowe funcjonalności. Bedzie mógł do
 Aktorzy: 
     -Użytkownik zarejestrowany i zalogowany
     -Użytkownik systemu
+    -Admin strony (Akceptuje nowo dodawane domy, zarządza użytkownikami)
+    -Moderator domów (Zarządza domami jakie mu klienci przekazali)
 
 Przypadki użycia:
     Załóż konto
@@ -22,9 +26,3 @@ Przypadki użycia:
     Wystaw nowy dom
     Edytuj wystawiony dom
     Usuń wystawiony dom
-    
-    Moderator strony
-    Moderator domów
-    Admin strony
-    Live chat
-    Moderator akceptuje wystawione domy itp
